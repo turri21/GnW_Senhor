@@ -1,3 +1,8 @@
+-=(GnW_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # MiSTer Port of Game and Watch Games
 
 The Game and Watch handheld devices emulator for MiSTer FPGA by Pierco.
